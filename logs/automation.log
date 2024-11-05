@@ -1,0 +1,6 @@
+12:09:58:283 [main] INFO  testCases.TC002_Login - ****** Login Test Started*******
+12:16:06:331 [main] INFO  testCases.TC001_AccountRegistrationTest - ******verify_account_registration Strated ****
+12:16:06:347 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Calling Methods from HomePage*****
+12:16:07:038 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Calling Methods from AccountRegistration from HomePage*****
+12:16:08:662 [main] INFO  testCases.TC001_AccountRegistrationTest - ******verify_account_registration Finished ****
+12:16:12:465 [main] INFO  testCases.TC002_Login - ****** Login Test Started*******
